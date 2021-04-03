@@ -3,6 +3,6 @@
 
 [General Documentation](https://mednafen.github.io/documentation/ "Documentation")
 
-[MY FAQ](https://github.com/PakLomak/FAQ-Mednafen/blob/main/FAQ%20Mednafen.png "My png")
+[MY FAQ](https://github.com/PakLomak/FAQ-Mednafen/blob/main/FAQ_Mednafen.png "My png")
 
 [FAQ on forum](https://forum.fobby.net/index.php?t=thread&frm_id=6& "FAQ eng")
